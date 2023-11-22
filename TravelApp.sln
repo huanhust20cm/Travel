@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34202.233
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TravelApp", "TravelApp\TravelApp.csproj", "{D124A7AA-0A5F-4CAB-A8C9-4F224D52EDF1}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Common", "Common", "{8BFD791A-A87A-4A1E-AFB6-95F9910CD980}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Base", "Base", "{7499FE8B-B726-436B-99DA-5F21CC7DCEA6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D124A7AA-0A5F-4CAB-A8C9-4F224D52EDF1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D124A7AA-0A5F-4CAB-A8C9-4F224D52EDF1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D124A7AA-0A5F-4CAB-A8C9-4F224D52EDF1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D124A7AA-0A5F-4CAB-A8C9-4F224D52EDF1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {803174ED-95EC-460D-AA2B-53E55772FC4E}
+	EndGlobalSection
+EndGlobal
